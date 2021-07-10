@@ -1,0 +1,17 @@
+C:\Users\AH Technologies\source\repos\Online_Store\Online_Store\bin\Debug\Online_Store.exe.config
+C:\Users\AH Technologies\source\repos\Online_Store\Online_Store\bin\Debug\Online_Store.exe
+C:\Users\AH Technologies\source\repos\Online_Store\Online_Store\bin\Debug\Online_Store.pdb
+C:\Users\AH Technologies\source\repos\Online_Store\Online_Store\obj\Debug\Online_Store.Form1.resources
+C:\Users\AH Technologies\source\repos\Online_Store\Online_Store\obj\Debug\Online_Store.Properties.Resources.resources
+C:\Users\AH Technologies\source\repos\Online_Store\Online_Store\obj\Debug\Online_Store.csproj.GenerateResource.cache
+C:\Users\AH Technologies\source\repos\Online_Store\Online_Store\obj\Debug\Online_Store.csproj.CoreCompileInputs.cache
+C:\Users\AH Technologies\source\repos\Online_Store\Online_Store\obj\Debug\Online_Store.exe
+C:\Users\AH Technologies\source\repos\Online_Store\Online_Store\obj\Debug\Online_Store.pdb
+C:\Users\AH Technologies\source\repos\Online_Store\Online_Store\obj\Debug\Online_Store.Form2.resources
+C:\Users\AH Technologies\source\repos\Online_Store\Online_Store\obj\Debug\Online_Store.Form3.resources
+C:\Users\AH Technologies\source\repos\Online_Store\Online_Store\obj\Debug\Online_Store.Form4.resources
+C:\Users\AH Technologies\source\repos\Online_Store\Online_Store\obj\Debug\Online_Store.Form5.resources
+C:\Users\AH Technologies\source\repos\Online_Store\Online_Store\obj\Debug\Online_Store.Form6.resources
+C:\Users\AH Technologies\source\repos\Online_Store\Online_Store\obj\Debug\Online_Store.Form8.resources
+C:\Users\AH Technologies\source\repos\Online_Store\Online_Store\obj\Debug\Online_Store.Form9.resources
+C:\Users\AH Technologies\source\repos\Online_Store\Online_Store\obj\Debug\Online_Store.csprojAssemblyReference.cache

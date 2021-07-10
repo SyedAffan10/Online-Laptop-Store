@@ -1,0 +1,51 @@
+________________________________
+        Lenevo Ideapad L3
+________________________________
+
+Lenevo Ideapad L3
+Processor : Ci7 8th Gen
+RAM : 16GB
+Harddisk : 512GB SSD
+LCD : 15.6″ HD Touchscreen
+Keyboard : Backlit
+Installation : Win 10 Pro
+Price : 140,000
+
+________________________________
+        Lenevo Andrean
+________________________________
+
+Lenevo Andrean
+Processor : Intel Core i3-854U
+RAM : 12GB
+Harddisk : 256GB SSD
+LCD : 15.6″ HD Touchscreen
+Keyboard : Backlit
+Installation : Win 10 Pro
+Price : 80,000
+
+________________________________
+       Lenevo Ideapad 330s
+________________________________
+
+Lenevo Ideapad 330s
+Processor : Intel Core i5-450G (4 x 2.1 GHz)
+RAM : 8GB
+Harddisk : 128GB SSD
+LCD : 15.6″ HD Touchscreen
+Keyboard : Backlit
+Installation : Win 10 Pro
+Price : 95,000
+
+________________________________
+      Lenevo Ideapad Gaming
+________________________________
+
+Lenevo Ideapad Gaming
+Processor : Quad-Core 2.50 GHz Intel Core i7 processor
+RAM : 16GB
+Harddisk : 128GB SSD
+LCD : 15.6″ HD Touchscreen Touch Screen
+Keyboard : Backlit
+Installation : Win 10 Pro
+Price : 125,000

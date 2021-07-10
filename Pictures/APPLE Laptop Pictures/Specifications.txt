@@ -1,0 +1,47 @@
+________________________________
+        Apple Mackbook 15
+________________________________
+
+Apple Mackbook 15
+Processor : Ci7 8th Gen
+RAM : 16GB
+Harddisk : 512GB SSD
+LCD : 13″ HD Touchscreen
+Keyboard : Backlit
+Price : 110,000
+
+________________________________
+    Apple Mackbook Pro 20
+________________________________
+
+Apple Mackbook Pro 2020
+Processor : Core i7 10 Generation (1.5 Ghz)
+RAM : 16GB
+Harddisk : 256GB SSD
+LCD : 15.6″ HD Touchscreen
+Keyboard : Backlit
+Price : 135,000
+
+________________________________
+     Apple Mackbook 18
+________________________________
+
+Apple Mackbook 2018
+Processor : Intel Core i5 (4 x 2.1 GHz)
+RAM : 8GB
+Harddisk : 128GB SSD
+LCD : 15.6″ HD Touchscreen
+Keyboard : Backlit
+Price : 140,000
+
+________________________________
+       Apple Mackbook 17
+________________________________
+
+Apple Mackbook 2017
+Processor : Quad-Core 2.50 GHz Intel Core i7 processor
+RAM : 16GB
+Harddisk : 128GB SSD
+LCD : 15.6″ HD Touchscreen Touch Screen
+Keyboard : Backlit
+Price : 105,000

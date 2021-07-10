@@ -1,0 +1,21 @@
+create database online_store;
+create table info
+(
+   info_id int primary key identity(1,1),
+   name varchar(50),
+   phone_no varchar(20),
+   addreess varchar(150),
+   email varchar(100)
+);
+select * from info;
+create table user_admin
+(
+   admin_name varchar(50),
+   pw varchar(50)
+);
+insert into user_admin (admin_name,pw) values ('asad','123');
+insert into user_admin (admin_name,pw) values ('affan','123');
+insert into user_admin (admin_name,pw) values ('shehroz','123');
+insert into user_admin (admin_name,pw) values ('khizar','123');
+select * from user_admin;
+
